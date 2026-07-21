@@ -79,26 +79,32 @@ A collaborative Java application featuring user profiles, messaging, and social-
 ## GitHub Statistics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Tyelaman&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Temirlan's GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyelaman&layout=compact&theme=github_dark&hide_border=true"
-    alt="Temirlan's most used programming languages"
-  />
+  <a href="https://github.com/Tyelaman">
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api?username=Tyelaman&show_icons=true&theme=github_dark&hide_border=true"
+      alt="Temirlan's GitHub statistics"
+    />
+  </a>
+  <a href="https://github.com/Tyelaman">
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tyelaman&layout=compact&theme=github_dark&hide_border=true"
+      alt="Temirlan's most used programming languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
-    alt="Temirlan's GitHub contribution streak"
-  />
+  <a href="https://github.com/Tyelaman">
+    <img
+      src="https://streak-stats.demolab.com/?user=Tyelaman&theme=github-dark-blue&hide_border=true"
+      alt="Temirlan's GitHub contribution streak"
+    />
+  </a>
 </p>
 
-> GitHub language statistics are based on public repository contents and do not represent overall proficiency.
+> GitHub language statistics are based on public repository contents and do not necessarily represent overall proficiency.
 
 ---
 
@@ -115,7 +121,7 @@ A collaborative Java application featuring user profiles, messaging, and social-
 ## Connect With Me
 
 <p align="left">
-  <a href="linkedin.com/in/temirlan-yelaman/">
+  <a href="https://www.linkedin.com/in/temirlan-yelaman/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -129,8 +135,9 @@ A collaborative Java application featuring user profiles, messaging, and social-
   </a>
   <a href="https://tyelaman.github.io/">
     <img
-      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Portfolio"
     />
   </a>
 </p>
+
