@@ -1,17 +1,17 @@
 # Hi, I'm Temirlan Yelaman 👋
 
-### Computer Science Student | Backend & Full-Stack Developer
+### Computer Science Student | Backend & Systems Developer
 
-I'm a Computer Science student at **Purdue University** interested in backend development, systems programming, and building practical software applications.
+I'm a Computer Science student at **Purdue University** interested in backend engineering, systems programming, databases, and full-stack development.
 
-I enjoy working on projects that strengthen my understanding of how software works—from memory management and command-line tools in C to database-driven web applications with Python and Flask.
+I enjoy building practical software while developing a deeper understanding of how applications work—from memory management and debugging in C to database-backed web applications and API integrations.
 
-* 🔭 Currently building **ForgeShell**, a Unix-style command-line shell written in C
-* 🌱 Learning more about **web development, backend architecture, and system design**
-* 🧠 Interested in **backend engineering, systems programming, databases, and developer tools**
+* 🔭 Currently building **ForgeShell**, a command-line shell written in C
+* 🌱 Learning more about **backend development, operating systems, and software architecture**
+* 💻 Interested in **backend engineering, systems programming, databases, and developer tools**
 * 🤝 Open to collaborating on **student projects and open-source software**
-* 📫 Reach me at **tyelama@purdue.edu**
-* 🌐 View my portfolio at **(https://github.com/Tyelaman/Tyelaman.github.io)**
+* 📫 Reach me at **YOUR_EMAIL**
+* 🌐 View my portfolio at **YOUR_PORTFOLIO_URL**
 
 ---
 
@@ -19,15 +19,15 @@ I enjoy working on projects that strengthen my understanding of how software wor
 
 ### 🔨 ForgeShell
 
-A Unix-style command-line shell written in C to explore process management, command parsing, memory management, and operating-system concepts.
+A command-line shell written in C to explore command parsing, process management, memory management, and operating-system concepts.
 
-**Technologies:** C, GCC, Make, Git
+**Technologies:** C, GCC, Make, Linux, Valgrind, Git
 
 ### 📋 InternTrack
 
-A full-stack web application that helps students organize and monitor internship applications, interviews, assessments, offers, and deadlines.
+A full-stack web application that helps students organize internship applications, interviews, online assessments, offers, and deadlines.
 
-**Technologies:** Python, Flask, SQLite, HTML, CSS, Bootstrap
+**Technologies:** Python, Flask, SQLite, SQL, HTML, CSS, Bootstrap
 
 ### 💬 Social Media Manager
 
@@ -37,31 +37,42 @@ A collaborative Java application featuring user profiles, messaging, and social-
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
+### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Web Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Frameworks and Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Valgrind](https://img.shields.io/badge/Valgrind-Debugging-5E2750?style=for-the-badge)
+
+### Computer Science
+
+`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `Debugging` · `Databases` · `API Integration`
+
+---
+
+## Languages
+
+| Language     | Proficiency  |
+| :----------- | :----------- |
+| **Kazakh**   | Native       |
+| **English**  | Fluent       |
+| **Russian**  | Fluent       |
+| **Japanese** | Intermediate |
 
 ---
 
@@ -76,7 +87,7 @@ A collaborative Java application featuring user profiles, messaging, and social-
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"
-    alt="Temirlan's most used languages"
+    alt="Temirlan's most used programming languages"
   />
 </p>
 
@@ -87,16 +98,16 @@ A collaborative Java application featuring user profiles, messaging, and social-
   />
 </p>
 
-> GitHub language statistics reflect public repository contents and do not necessarily represent overall experience.
+> GitHub language statistics are based on public repository contents and do not represent overall proficiency.
 
 ---
 
 ## Current Goals
 
 * Build portfolio-ready backend and systems projects
-* Strengthen my understanding of data structures, operating systems, and databases
-* Improve my testing, documentation, and software-design practices
-* Contribute to an open-source project
+* Strengthen my knowledge of operating systems, databases, and software design
+* Improve my testing, debugging, and documentation practices
+* Contribute to open-source software
 * Prepare for software engineering internship opportunities
 
 ---
