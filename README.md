@@ -10,8 +10,8 @@ I enjoy working on projects that strengthen my understanding of how software wor
 * 🌱 Learning more about **web development, backend architecture, and system design**
 * 🧠 Interested in **backend engineering, systems programming, databases, and developer tools**
 * 🤝 Open to collaborating on **student projects and open-source software**
-* 📫 Reach me at **YOUR_EMAIL**
-* 🌐 View my portfolio at **YOUR_PORTFOLIO_URL**
+* 📫 Reach me at **tyelama@purdue.edu**
+* 🌐 View my portfolio at **(https://github.com/Tyelaman/Tyelaman.github.io)**
 
 ---
 
