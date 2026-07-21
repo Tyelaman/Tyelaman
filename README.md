@@ -81,12 +81,12 @@ A collaborative Java application featuring user profiles, messaging, and social-
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Tyelaman&show_icons=true&theme=github_dark&hide_border=true"
     alt="Temirlan's GitHub statistics"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyelaman&layout=compact&theme=github_dark&hide_border=true"
     alt="Temirlan's most used programming languages"
   />
 </p>
