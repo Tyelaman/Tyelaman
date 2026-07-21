@@ -10,8 +10,8 @@ I enjoy building practical software while developing a deeper understanding of h
 * 🌱 Learning more about **backend development, operating systems, and software architecture**
 * 💻 Interested in **backend engineering, systems programming, databases, and developer tools**
 * 🤝 Open to collaborating on **student projects and open-source software**
-* 📫 Reach me at **YOUR_EMAIL**
-* 🌐 View my portfolio at **YOUR_PORTFOLIO_URL**
+* 📫 Reach me at **tyelama@purdue.edu**
+* 🌐 View my portfolio at **(https://tyelaman.github.io/)**
 
 ---
 
@@ -115,19 +115,19 @@ A collaborative Java application featuring user profiles, messaging, and social-
 ## Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="linkedin.com/in/temirlan-yelaman/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:tyelama@purdue.edu">
     <img
       src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://tyelaman.github.io/">
     <img
       src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
