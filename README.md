@@ -2,36 +2,44 @@
 
 ### Computer Science Student | Backend & Systems Developer
 
-I'm a Computer Science student at **Purdue University** interested in backend engineering, systems programming, databases, and full-stack development.
+I'm a Computer Science student at **Purdue University** interested in backend engineering, systems programming, databases, automation, and full-stack development.
 
-I enjoy building practical software while developing a deeper understanding of how applications work—from memory management and debugging in C to database-backed web applications and API integrations.
+I enjoy building practical software while developing a deeper understanding of how applications work—from memory management and debugging in C to database-backed applications, automated data pipelines, and API integrations.
 
-* 🔭 Currently building **ForgeShell**, a command-line shell written in C
+* 🔭 Maintaining the **Fortune 500 Job Tracker** and building **ForgeShell**
 * 🌱 Learning more about **backend development, operating systems, and software architecture**
-* 💻 Interested in **backend engineering, systems programming, databases, and developer tools**
+* 💻 Interested in **backend engineering, systems programming, databases, automation, and developer tools**
 * 🤝 Open to collaborating on **student projects and open-source software**
-* 📫 Reach me at **tyelama@purdue.edu**
-* 🌐 View my portfolio at **(https://tyelaman.github.io/)**
+* 📫 Reach me at **[tyelama@purdue.edu](mailto:tyelama@purdue.edu)**
+* 🌐 View my [portfolio](https://tyelaman.github.io/)
 
 ---
 
 ## Featured Projects
 
-### 🔨 ForgeShell
+### 🏢 [Fortune 500 Job Tracker](https://github.com/Tyelaman/F500-SWE-Internships)
 
-A command-line shell written in C to explore command parsing, process management, memory management, and operating-system concepts.
+An automated Python pipeline that collects United States-based job postings from Fortune 500 company career sites, normalizes data from multiple hiring platforms, classifies roles by employment type and job category, removes duplicate listings, and publishes continuously updated Markdown and JSON job data.
 
-**Technologies:** C, GCC, Make, Linux, Valgrind, Git
+The pipeline supports Greenhouse, Lever, and Workday career sites and runs automatically every six hours through GitHub Actions.
 
-### 📋 InternTrack
+**Technologies:** Python, REST APIs, JSON, GitHub Actions, pytest, Greenhouse, Lever, Workday
+
+### 📋 [InternTrack](https://github.com/Tyelaman/interntrack)
 
 A full-stack web application that helps students organize internship applications, interviews, online assessments, offers, and deadlines.
 
 **Technologies:** Python, Flask, SQLite, SQL, HTML, CSS, Bootstrap
 
-### 💬 Social Media Manager
+### 🔨 [ForgeShell](https://github.com/Tyelaman/forgeshell)
 
-A collaborative Java application featuring user profiles, messaging, and social-media functionality.
+A command-line shell written in C to explore command parsing, process management, memory management, and operating-system concepts.
+
+**Technologies:** C, GCC, Make, Linux, Valgrind, Git
+
+### 💬 Online Marketplace
+
+A collaborative Java application featuring user profiles, messaging, and marketplace functionality.
 
 **Technologies:** Java, Object-Oriented Programming, Git
 
@@ -55,13 +63,15 @@ A collaborative Java application featuring user profiles, messaging, and social-
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Valgrind](https://img.shields.io/badge/Valgrind-Debugging-5E2750?style=for-the-badge)
 
 ### Computer Science
 
-`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `Debugging` · `Databases` · `API Integration`
+`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `Debugging` · `Databases` · `API Integration` · `Data Pipelines` · `Automated Testing`
 
 ---
 
@@ -112,7 +122,7 @@ A collaborative Java application featuring user profiles, messaging, and social-
 
 * Build portfolio-ready backend and systems projects
 * Strengthen my knowledge of operating systems, databases, and software design
-* Improve my testing, debugging, and documentation practices
+* Improve my testing, debugging, automation, and documentation practices
 * Contribute to open-source software
 * Prepare for software engineering internship opportunities
 
@@ -140,4 +150,3 @@ A collaborative Java application featuring user profiles, messaging, and social-
     />
   </a>
 </p>
-
