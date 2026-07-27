@@ -37,7 +37,7 @@ A command-line shell written in C to explore command parsing, process management
 
 **Technologies:** C, GCC, Make, Linux, Valgrind, Git
 
-### 💬 Online Marketplace
+### 💬 [Online Marketplace](https://github.com/Tyelaman/CS-180-Team-Project)
 
 A collaborative Java application featuring user profiles, messaging, and marketplace functionality.
 
