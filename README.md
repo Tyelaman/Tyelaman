@@ -1,88 +1,78 @@
 # Hi, I'm Temirlan Yelaman 👋
 
-### Computer Science Student | Backend & Systems Developer
+### Computer Science Student at Purdue University
 
-I'm a Computer Science student at **Purdue University** interested in backend engineering, systems programming, databases, automation, and full-stack development.
+I'm interested in backend engineering, systems programming, databases, and automation. I enjoy building practical applications and understanding how software works behind the scenes.
 
-I enjoy building practical software while developing a deeper understanding of how applications work—from memory management and debugging in C to database-backed applications, automated data pipelines, and API integrations.
-
-* 🔭 Maintaining the **Fortune 500 Job Tracker** and building **ForgeShell**
-* 🌱 Learning more about **backend development, operating systems, and software architecture**
-* 💻 Interested in **backend engineering, systems programming, databases, automation, and developer tools**
-* 🤝 Open to collaborating on **student projects and open-source software**
-* 📫 Reach me at **[tyelama@purdue.edu](mailto:tyelama@purdue.edu)**
-* 🌐 View my [portfolio](https://tyelaman.github.io/)
+- 🔭 Currently building **PulseWatch** and maintaining **F500Tracker** and **InternTrack**
+- 🌱 Learning more about **Spring Boot, Docker, and backend architecture**
+- 🤝 Open to collaborating on **student projects and open-source software**
+- 🎾 Outside of coding, I enjoy **tennis, the gym, swimming, and playing guitar**
 
 ---
 
-## Featured Projects
+## Projects
 
-### 🏢 [Fortune 500 Job Tracker](https://github.com/Tyelaman/F500-SWE-Internships)
+### 📡 [PulseWatch](https://github.com/Tyelaman/pulsewatch)
 
-An automated Python pipeline that collects United States-based job postings from Fortune 500 company career sites, normalizes data from multiple hiring platforms, classifies roles by employment type and job category, removes duplicate listings, and publishes continuously updated Markdown and JSON job data.
+An API health monitoring and incident analysis service I'm building to help identify when services go down and understand what happened.
 
-The pipeline supports Greenhouse, Lever, and Workday career sites and runs automatically every six hours through GitHub Actions.
+**Stack:** Java · Spring Boot · Maven
 
-**Technologies:** Python, REST APIs, JSON, GitHub Actions, pytest, Greenhouse, Lever, Workday
+### 🏢 [F500Tracker](https://github.com/Tyelaman/F500Tracker)
+
+An automated pipeline that collects internships and full-time roles from Fortune 500 career sites, organizes salary and visa sponsorship information, and publishes searchable job listings.
+
+**Stack:** Python · REST APIs · GitHub Actions · pytest · HTML/CSS · JavaScript
+
+[Browse job listings →](https://tyelaman.github.io/F500Tracker/)
 
 ### 📋 [InternTrack](https://github.com/Tyelaman/interntrack)
 
-A full-stack web application that helps students organize internship applications, interviews, online assessments, offers, and deadlines.
+A web application for discovering internships and tracking applications, deadlines, notes, and progress.
 
-**Technologies:** Python, Flask, SQLite, SQL, HTML, CSS, Bootstrap
+**Stack:** Python · Flask · PostgreSQL · SQLite · Bootstrap · pytest · Vercel · Neon
 
-### 🔨 [ForgeShell](https://github.com/Tyelaman/forgeshell)
-
-A command-line shell written in C to explore command parsing, process management, memory management, and operating-system concepts.
-
-**Technologies:** C, GCC, Make, Linux, Valgrind, Git
-
-### 💬 [Online Marketplace](https://github.com/Tyelaman/CS-180-Team-Project)
-
-A collaborative Java application featuring user profiles, messaging, and marketplace functionality.
-
-**Technologies:** Java, Object-Oriented Programming, Git
+[Try the live app →](https://interntrack-pearl.vercel.app/)
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks and Tools
+### Frameworks & Databases
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### Tools & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-Debugging-5E2750?style=for-the-badge)
-
-### Computer Science
-
-`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `Debugging` · `Databases` · `API Integration` · `Data Pipelines` · `Automated Testing`
-
----
-
-## Languages
-
-| Language     | Proficiency  |
-| :----------- | :----------- |
-| **Kazakh**   | Native       |
-| **English**  | Fluent       |
-| **Russian**  | Fluent       |
-| **Japanese** | Intermediate |
 
 ---
 
@@ -114,39 +104,11 @@ A collaborative Java application featuring user profiles, messaging, and marketp
   </a>
 </p>
 
-> GitHub language statistics are based on public repository contents and do not necessarily represent overall proficiency.
-
----
-
-## Current Goals
-
-* Build portfolio-ready backend and systems projects
-* Strengthen my knowledge of operating systems, databases, and software design
-* Improve my testing, debugging, automation, and documentation practices
-* Contribute to open-source software
-* Prepare for software engineering internship opportunities
+> GitHub language statistics reflect public repository contents, not overall proficiency.
 
 ---
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/temirlan-yelaman/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:tyelama@purdue.edu">
-    <img
-      src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://tyelaman.github.io/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temirlan-yelaman/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyelama@purdue.edu)
