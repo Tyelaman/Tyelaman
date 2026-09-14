@@ -4,10 +4,7 @@
 
 I'm interested in backend engineering, systems programming, databases, and automation. I enjoy building practical applications and understanding how software works behind the scenes.
 
-- 🔭 Currently building **PulseWatch** and maintaining **F500Tracker** and **InternTrack**
-- 🌱 Learning more about **Spring Boot, Docker, and backend architecture**
-- 🤝 Open to collaborating on **student projects and open-source software**
-- 🎾 Outside of coding, I enjoy **tennis, the gym, playing videogames and guitar**
+Outside of coding, I enjoy **tennis, the gym, playing videogames and guitar**
 
 ---
 
